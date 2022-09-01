@@ -7,7 +7,7 @@
  */
 public class MyPetFish{
         public static void main (String [] args){
-            int result= (Galaxy);
+            int result= (Galaxy); //incorrect - syntax error
             System.out.println("The name of my Betta fish is " + result );
         }
 }
