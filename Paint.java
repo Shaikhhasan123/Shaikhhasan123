@@ -1,3 +1,11 @@
+/**
+ * Class: Paint
+ * @author: Shaikh Hasan
+ * @version: 1.0
+ * @course: ITEC 2140 Fall 2022
+ * date: September 8, 2022
+ * description: This program will calculate the gallons and quarts of paint are needed to paint the room.
+ */
 import java.util.Scanner;
 public class Paint {
     public static void main(String[] args) {
