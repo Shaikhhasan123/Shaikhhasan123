@@ -11,5 +11,6 @@ public class BobbaTea{
         int tips = 2;
         double total = tea + tips;
         System.out.println(" The total cost of a cup is " + total + " dollars." );
+        //you must include all examples including a constant variable and assignment of a value. 
     }
 }
