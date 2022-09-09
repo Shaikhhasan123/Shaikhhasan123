@@ -1,4 +1,11 @@
-
+/**
+ * Class: BMI
+ * @author: Shaikh Hasan
+ * @version: 1.2
+ * @course: ITEC 2140 Fall 2022
+ * date: September 8, 2022
+ * description: This program will calculate BMI
+ */
 import java.util.Scanner;
 public class BMI {
     public static void main(String [] args) {
