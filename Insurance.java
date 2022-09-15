@@ -1,3 +1,11 @@
+/**
+ * Class: Insurance
+ * @author: Shaikh Hasan
+ * @version: 1.0
+ * Course: ITEC 2140
+ * Date: September 15, 2022
+ * Description: This program will calculate the cost of car insurance based on the drivcer age and number of accidents. 
+ */
 import java.util.*;
 public class Insurance
 {
