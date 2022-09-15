@@ -1,3 +1,11 @@
+/**
+ * Class: Divisible
+ * @author: Shaikh Hasan
+ * @version: 1.0
+ * Course: ITEC 2140
+ * Date: September 15, 2022
+ * Description: This program will determine wheather a random number is divisable by either 5 or 3 or both. 
+ */
 import java.util.Scanner;
 
 public class Divisible
