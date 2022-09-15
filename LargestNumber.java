@@ -1,5 +1,5 @@
 /**
- * Class:
+ * Class: Largest Number
  * @author: Shaikh Hasan
  * @version: 1.0
  * Course: ITEC 2140
