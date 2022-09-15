@@ -1,3 +1,11 @@
+/**
+ * Class:
+ * @author: Shaikh Hasan
+ * @version: 1.0
+ * Course: ITEC 2140
+ * Date: September 15, 2022
+ * Description: This program will determine the largest number out of three random numbers inputed. 
+ */
 import java.util.Scanner;
 public class LargestNumber {
 
