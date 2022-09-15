@@ -1,3 +1,11 @@
+/**
+ * Class: Day Of The Week
+ * @author: Shaikh Hasan
+ * @version: 1.0
+ * Course: ITEC 2140
+ * Date: September 15, 2022
+ * Description: This program will generate output with names of days of a week when inputting a number from 1-7
+ */
 import java.util.Scanner;
 public class DayOfTheWeek {
 
