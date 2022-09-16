@@ -15,17 +15,20 @@ public class Insurance
         int surcharge;
         int base_insurance_cost=300; //Base insurance cost is 300
         int total_ins;
+       
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter age of the driver:");
         age=sc.nextInt();
-        if(age<27){ //if driver age is less than 27 it executes inside code
+        if(age<27){ //if the driver age is below 27 it executes inside code
+           
             System.out.println("Enter number of accidents:");
-            accidents=sc.nextInt(); //taking surcharge as user input
+            accidents=sc.nextInt();
             if(accidents==1){
                 surcharge=100;
                 total_ins= base_insurance_cost+surcharge;
-                System.out.println("Total Insurance is:"+total_ins); //printing total insurance
+                System.out.println("Total Insurance is:"+total_ins); 
             }
+            
             if(accidents==2){
                 surcharge=150;
                 total_ins= base_insurance_cost+surcharge;
@@ -43,7 +46,7 @@ public class Insurance
             }
 
         }
-        else{ //If driver age is greater than 27 it executes inside code
+        else{ 
             System.out.println("Age has to be less than 27");
         }
     }
